@@ -1,0 +1,33 @@
+_repo: Female-Warriors-Vol.-I--of-2---13-Mythological-Ages-to-the-Present-Era._43646
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43646-h/images/plain_cover.jpg
+creator:
+  author:
+    agent_name: Clayton, Ellen C. (Ellen Creathorne)
+    aliases:
+    - Clayton, E. C. (Ellen Creathorne)
+    - Clayton, Eleanor Creathorne
+    - Needham, Mrs. (Ellen Creathorne)
+    birthdate: 1834
+    deathdate: 1900
+    gutenberg_agent_id: '42343'
+    url: http://www.gutenberg.org/2009/agents/42343
+description: ''
+gutenberg_issued: '2013-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcsh 'Women soldiers'
+- !lcsh 'Amazons'
+- !lcc 'CT'
+title: "Female Warriors, Vol. 1 (of 2)\r\nMemorials of Female Valour and Heroism,\
+  \ from the Mythological Ages to the Present Era."
+url: http://www.gutenberg.org/ebooks/43646
